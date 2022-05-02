@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<soap:Envelope
+xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <ns1:BookingDetail xmlns:ns1="urn:PegaRULES:SOAP:EBSSales:Opportunity">
+            <COEStatusCode>OK</COEStatusCode>
+            <COEStatusDescription></COEStatusDescription>
+            <SalesAccountID>ACC-20245</SalesAccountID>
+            <SalesAccountName>Shell International Petroleum Co. Ltd.</SalesAccountName>
+            <SalesOrganizationID>ORG-2066</SalesOrganizationID>
+            <SalesOrganizationName>Royal Dutch Shell</SalesOrganizationName>
+            <SalesStrategicOrgID>SORG-12597</SalesStrategicOrgID>
+            <SalesStrategicOrgName>Royal Dutch Shell plc</SalesStrategicOrgName>
+            <AllianceApproval>Approved</AllianceApproval>
+            <CloseDate>2020-12-17</CloseDate>
+            <ContractRequestNo>CR-62355</ContractRequestNo>
+            <LicenseType>Subscription</LicenseType>
+            <DealType>Radiation</DealType>
+            <OpportunityAmount>348200</OpportunityAmount>
+            <ActualRenewalACV></ActualRenewalACV>
+            <RenewalAmount></RenewalAmount>
+            <OpportunityID>O-48540</OpportunityID>
+            <OpportunityName>(50%UK) Shell SDU (Upstream) Part 1</OpportunityName>
+            <OpportunityOwner>gilbm1@pegasystems.com</OpportunityOwner>
+            <OpportunityStatus>Resolved-Won</OpportunityStatus>
+            <PartnerRole>Partner Sourced</PartnerRole>
+            <SalesApproval>Approved</SalesApproval>
+            <TerritoryID>BT1137</TerritoryID>
+            <TerritoryName>EMEA-UKI-MFG-CS–Govan</TerritoryName>
+            <TeamList>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>dawkg@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsSalesDirector</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>gilbm1@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAccountExecutive</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>tarrk@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsRegion</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>fairt@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAllianceBooking</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>nicok@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAllianceBooking</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>peckd@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAllianceBooking</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>osted@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAllianceBooking</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>misha7@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAllianceBooking</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>cazec@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAllianceBooking</Role>
+                </Member>
+                <Member>
+                    <CommissionPercent>100.00</CommissionPercent>
+                    <ID>jhaa2@pegasystems.com</ID>
+                    <QuotaPercent>100.00</QuotaPercent>
+                    <Role>IndexBookingsAllianceBooking</Role>
+                </Member>
+            </TeamList>
+            <PartnerList>
+                <Partner>
+                    <PartnerID>PORG-587</PartnerID>
+                    <PartnerName>Wipro Limited</PartnerName>
+                    <PartnerRole>Net New Opportunity</PartnerRole>
+                    <CommissionDuePartner></CommissionDuePartner>
+                    <PartnerRecognitionPercentage></PartnerRecognitionPercentage>
+                </Partner>
+            </PartnerList>
+            <SolutionList>
+                <Solution>
+                    <BusinessLineID>BL8</BusinessLineID>
+                    <BusinessSegmentID>SEG74</BusinessSegmentID>
+                    <SolutionID>SOL677</SolutionID>
+                    <OtherSolution></OtherSolution>
+                    <IsPrimary>true</IsPrimary>
+                    <Contribution>0</Contribution>
+                </Solution>
+            </SolutionList>
+            <SalesTeamList>
+                <SalesTeamMember>
+                    <FullName>Helen Anatogu</FullName>
+                    <Id>anath@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Business Officer</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Arjun Chaganty</FullName>
+                    <Id>chaga2@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Enterprise Architect</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Ian Davies</FullName>
+                    <Id>davii1@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Practice Lead</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Graham Dawkes</FullName>
+                    <Id>dawkg@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Team Leader</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Raj Doshi</FullName>
+                    <Id>doshr@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Business Consultant</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Jeroen Geerdink</FullName>
+                    <Id>geerj@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Sales Associate</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Marcus Gilbert</FullName>
+                    <Id>gilbm1@pegasystems.com</Id>
+                    <PartyRole>Owner</PartyRole>
+                    <TeamRole></TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Laura Harrison</FullName>
+                    <Id>harrl@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Account Owner</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Sjoerd Heins</FullName>
+                    <Id>heins@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Sales Associate</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Lukasz Jarzyna</FullName>
+                    <Id>jarzl@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Lead Solutions Consultant</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Philip Jones</FullName>
+                    <Id>jonep@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Manager Solutions Consulting</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Laurence Moore</FullName>
+                    <Id>moorl@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Solutions Consultant</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Epco Pottinga</FullName>
+                    <Id>potte@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Team Leader</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Tim Senior</FullName>
+                    <Id>senit@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Enterprise Architect</TeamRole>
+                </SalesTeamMember>
+                <SalesTeamMember>
+                    <FullName>Willem-Paul Swanborn</FullName>
+                    <Id>swanw@pegasystems.com</Id>
+                    <PartyRole>TeamMember</PartyRole>
+                    <TeamRole>Sales Rep</TeamRole>
+                </SalesTeamMember>
+            </SalesTeamList>
+        </ns1:BookingDetail>
+    </soap:Body>
+</soap:Envelope>
